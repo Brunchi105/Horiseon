@@ -6,6 +6,9 @@ Applied the Scout Rule. Modified the code of Horiseon's webpage in order to make
 
 Web accessibility is important because it enables people with disabilities to access websites using assistive technologies. It also improves search engine optimization and helps avoid litigation. 
 
+## Website
+https://brunchi105.github.io/Horiseon/
+
 ## Contributors
 
 - Bruno Aguirre
