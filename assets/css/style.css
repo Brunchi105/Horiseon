@@ -41,6 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* End of header */
 
 a {
     color: #ffffff;
@@ -51,6 +52,20 @@ p {
     font-size: 17x;
 }
 
+/* Apply styles to footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+} 
+/* End of footer */
+
+/* Hero style start */
 .hero img {
     height: 800px;
     width: 100%;
@@ -58,6 +73,7 @@ p {
     background-size: cover;
     background-position: center; 
 }
+/* Hero style ends */
 
 .content {
     width: 75%;
@@ -119,14 +135,3 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-} 
